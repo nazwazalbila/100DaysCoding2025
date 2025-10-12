@@ -6,7 +6,9 @@ public class Day35Java {
         int nilai = 95;
         
         if (nilai >=80){
-            System.out.println("Predikat A");
+            System.out.println("lulus");
+        }else {
+            System.out.println("tidak lulus");
         }
         
     }
